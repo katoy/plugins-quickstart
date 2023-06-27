@@ -37,3 +37,15 @@ The plugin should now be installed and enabled! You can start with a question li
 ## Getting help
 
 If you run into issues or have questions building a plugin, please join our [Developer community forum](https://community.openai.com/c/chat-plugins/20).
+
+EE See
+
+See
+- https://qiita.com/___monta___/items/19e62804f3026f746cc7
+  ChatGPTを使いながらChatGPT Pluginを開発した話 by 人間
+
+- https://tech.nri-net.com/entry/try_to_make_chatgpt_plugin
+  ChatGPTプラグインを実際に作成してみる
+
+- https://zenn.dev/ikekou/articles/60f7e88ed6aa4b
+  ChatGPT plugins quickstartを動かす方法（2023年6月5日時点）
