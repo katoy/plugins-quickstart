@@ -49,3 +49,13 @@ See
 
 - https://zenn.dev/ikekou/articles/60f7e88ed6aa4b
   ChatGPT plugins quickstartを動かす方法（2023年6月5日時点）
+
+- https://platform.openai.com/docs/plugins/examples
+  Example plugins
+
+- https://zenn.dev/laiso/scraps/0c4d0cd589dc10
+  ChatGPT Plugins開発
+```
+OpenAPI仕様書を公開しておくとGPTがそれを解釈してユーザーの入力からWebリクエストを作って処理してくれる.
+各APIのdescriptionをちゃんと書いておけばあとはChatGPT側でよしなにやってくれる.
+```
